@@ -1,2 +1,2 @@
-# Not-a-Responsive-Resume
+# Web Resume
 My Resume works
